@@ -1,1 +1,2 @@
 C:\Users\82108\source\repos\CollaboratorTest1\Project#1\Exam\Debug\Exam.exe
+C:\Users\82108\source\repos\CollaboratorTest1\Project#1\가위바위보\Debug\Exam.exe

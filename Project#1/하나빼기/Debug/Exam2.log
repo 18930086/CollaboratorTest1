@@ -4,5 +4,4 @@ C:\Users\82108\source\repos\CollaboratorTest1\Project#1\하나빼기\하나빼�
 C:\Users\82108\source\repos\CollaboratorTest1\Project#1\하나빼기\하나빼기.c(82,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
 C:\Users\82108\source\repos\CollaboratorTest1\Project#1\하나빼기\하나빼기.c(82,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
 C:\Users\82108\source\repos\CollaboratorTest1\Project#1\하나빼기\하나빼기.c(82,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1074,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1168).
-LINK : fatal error LNK1168: C:\Users\82108\source\repos\CollaboratorTest1\Project#1\하나빼기\Debug\Exam2.exe을(를) 쓰기용으로 열 수 없습니다.
+  Exam2.vcxproj -> C:\Users\82108\source\repos\CollaboratorTest1\Project#1\하나빼기\Debug\Exam2.exe
